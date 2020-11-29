@@ -87,6 +87,6 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "styled-components": "^5.1.1",
-    "tslib": "^1.10.0"
+    "tslib": "^1.14.1"
   }
 }
